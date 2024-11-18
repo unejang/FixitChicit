@@ -1,4 +1,4 @@
-using FixitChicit.Page.DetailPage;
+using FixitChicit.Page;
 
 namespace FixitChicit.Page;
 
@@ -11,32 +11,32 @@ public partial class CategoryPage : ContentPage
 
     private void GoToShirt(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPageShirt());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToSkirt(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPageSkirt());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToBag(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPageBag());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToPant(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPagePant());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToShoe(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPageShoe());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToAccessory(object sender, EventArgs e)
     {
-		Navigation.PushAsync(new DetailPageAccessory());
+		Navigation.PushAsync(new DetailPage());
     }
 
     private void GoToHistory(object sender, EventArgs e)

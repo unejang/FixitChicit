@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixitChicit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+585ed654ddd85dbf44a67c1892181155b72d8e53")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixitChicit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixitChicit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

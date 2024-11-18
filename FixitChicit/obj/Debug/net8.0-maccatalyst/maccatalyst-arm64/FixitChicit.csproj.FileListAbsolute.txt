@@ -332,3 +332,4 @@
 /Users/une/projects/FixitChicit/FixitChicit/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.Maui.Controls.HotReload.Forms.dll
 /Users/une/projects/FixitChicit/FixitChicit/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/une/projects/FixitChicit/FixitChicit/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Microsoft.VisualStudio.DesignTools.TapContract.dll
+/Users/une/projects/FixitChicit/FixitChicit/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FixitChicit.sourcelink.json

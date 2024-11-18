@@ -65,4 +65,10 @@
 		<PackageReference Include="PropertyChanged.Fody" Version="4.1.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Compile Update="Page/DetailPage/DetailPage.xaml.cs">
+	    <DependentUpon>DetailPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
 </Project>

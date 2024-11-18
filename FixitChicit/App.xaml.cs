@@ -1,5 +1,5 @@
 ﻿using FixitChicit.Page;
-using FixitChicit.Page.DetailPage;
+
 
 namespace FixitChicit;
 
