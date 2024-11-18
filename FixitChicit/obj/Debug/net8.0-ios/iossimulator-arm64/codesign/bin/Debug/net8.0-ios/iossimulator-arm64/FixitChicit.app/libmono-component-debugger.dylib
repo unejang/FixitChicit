@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/une/projects/FixitChicit/FixitChicit/bin/Debug/net8.0-ios/iossimulator-arm64/FixitChicit.app/libmono-component-debugger.dylib

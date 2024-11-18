@@ -1,0 +1,103 @@
+is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FixitChicit
+build_property.ProjectDir = /Users/une/projects/FixitChicit/FixitChicit/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/une/projects/FixitChicit/FixitChicit/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/CategoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.CategoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/CategoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/CategoryPage.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPageAccessory.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPageAccessory.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPageAccessory.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPageAccessory.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPageBag.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPageBag.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPageBag.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPageBag.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPagePant.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPagePant.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPagePant.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPagePant.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPageShirt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPageShirt.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPageShirt.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPageShirt.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPageShoe.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPageShoe.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPageShoe.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPageShoe.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/DetailPage/DetailPageSkirt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.DetailPage.DetailPageSkirt.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/DetailPage/DetailPageSkirt.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/DetailPage/DetailPageSkirt.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/HistoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.HistoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/HistoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/HistoryPage.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Page/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Page.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Page/LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Page/LoginPage.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/une/projects/FixitChicit/FixitChicit/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FixitChicit.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

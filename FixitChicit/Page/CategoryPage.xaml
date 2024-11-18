@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FixitChicit.Page.CategoryPage">
+<Grid Padding="10" RowSpacing="10" ColumnSpacing="20" RowDefinitions="*,*,20,*,20,*,25,*,*" ColumnDefinitions="*,*" Margin="10" >
+    <Frame  Grid.ColumnSpan="2"
+           CornerRadius="30" Padding="10" BackgroundColor="#FFFFFED7"
+           HorizontalOptions="Center" VerticalOptions="Center" >
+        <Label Text="   Category   " FontSize="30" TextColor="#FF553A26"
+               Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" ></Label>
+    </Frame>
+
+        <ImageButton Source="shirt.png"  
+            Grid.Row="1" Grid.Column="0" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToShirt" ></ImageButton>
+        <Label Text="Shirt" FontSize="19" Grid.Row="2" Grid.Column="0"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <ImageButton Source="skirt.png"  
+            Grid.Row="3" Grid.Column="0" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToSkirt"></ImageButton>
+        <Label Text="Skirt" FontSize="19" Grid.Row="4" Grid.Column="0"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <ImageButton Source="bag.png"  
+            Grid.Row="5" Grid.Column="0" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToBag"></ImageButton>
+        <Label Text="Bag" FontSize="19" Grid.Row="6" Grid.Column="0"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <ImageButton Source="pant.png"  
+            Grid.Row="1" Grid.Column="1" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToPant"></ImageButton>
+        <Label Text="Pant" FontSize="19" Grid.Row="2" Grid.Column="1"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <ImageButton Source="shoe.png"  
+            Grid.Row="3" Grid.Column="1" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToShoe"></ImageButton>
+        <Label Text="Shoe" FontSize="19" Grid.Row="4" Grid.Column="1"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <ImageButton Source="accessory.png"  
+            Grid.Row="5" Grid.Column="1" BackgroundColor="LightBlue" CornerRadius="10"
+            Clicked="GoToAccessory"></ImageButton>
+        <Label Text="Accessory" FontSize="19" Grid.Row="6" Grid.Column="1"
+             HorizontalOptions="Center" VerticalOptions="Start"></Label>
+        <Button Text="History" Grid.ColumnSpan="2" Grid.Row="7"
+            BackgroundColor="LightGray" TextColor="Black" FontSize="18" 
+            CornerRadius="10" Margin="30" VerticalOptions="End" HorizontalOptions="End"
+            Clicked="GoToHistory" ></Button> 
+</Grid>
+</ContentPage>
